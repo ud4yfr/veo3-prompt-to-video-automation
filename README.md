@@ -95,3 +95,9 @@ Confirm a video URL is written back after completion.
 ❓ Why I Built This
 
 To automate turning a single topic into a complete Veo3-ready video clip, without manually writing prompts or tracking outputs.
+
+---
+
+## 📄 License
+
+MIT
